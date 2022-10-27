@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jasonccfu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, CSS, JavaScrip, Java and Python.
+- 👋 Hi, I’m Jason.
+- 👀 I’m interested in learning coding!
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
